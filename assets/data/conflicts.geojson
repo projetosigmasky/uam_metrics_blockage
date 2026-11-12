@@ -1,0 +1,6908 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "mac_timestamp_available": false
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 581.0,
+        "start_simt": 581.0,
+        "end_simt": 586.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0002",
+        "id_b": "HP100_0003",
+        "dist_h_m": 457.82292328634844,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.9156458465726969,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57023724,
+          -23.533708385,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 6739.0,
+        "start_simt": 6739.0,
+        "end_simt": 6842.0,
+        "duration_s": 104.0,
+        "id_a": "HP100_0010",
+        "id_b": "HP100_0011",
+        "dist_h_m": 490.0940812056476,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9801881624112952,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.644233084999996,
+          -23.528565735,
+          944.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 27289.0,
+        "start_simt": 27289.0,
+        "end_simt": 27568.0,
+        "duration_s": 280.0,
+        "id_a": "HP100_0022",
+        "id_b": "HP100_0023",
+        "dist_h_m": 0.0,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.0,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.655833,
+          -23.564167,
+          904.9512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 33891.0,
+        "start_simt": 33891.0,
+        "end_simt": 33896.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0027",
+        "id_b": "HP100_0028",
+        "dist_h_m": 423.5926341160703,
+        "dist_v_m": 8.309073000000012,
+        "horizontal_ratio": 0.8471852682321406,
+        "vertical_ratio": 0.060579418197725374,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.060579418197725374,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.472926314999995,
+          -23.43745701,
+          754.2673365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 38055.0,
+        "start_simt": 38051.0,
+        "end_simt": 38066.0,
+        "duration_s": 16.0,
+        "id_a": "HP100_0037",
+        "id_b": "HP100_0038",
+        "dist_h_m": 381.2247670671786,
+        "dist_v_m": 1.3077840000000833,
+        "horizontal_ratio": 0.7624495341343572,
+        "vertical_ratio": 0.009534733158355813,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.009534733158355813,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.691174974999996,
+          -23.59116276,
+          858.665892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 38363.0,
+        "start_simt": 38363.0,
+        "end_simt": 38368.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0039",
+        "id_b": "HP100_0040",
+        "dist_h_m": 399.6549182473829,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.7993098364947658,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.575473375,
+          -23.537641135,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 43632.0,
+        "start_simt": 43629.0,
+        "end_simt": 43636.0,
+        "duration_s": 8.0,
+        "id_a": "HP100_0058",
+        "id_b": "HP100_0059",
+        "dist_h_m": 109.83484933804824,
+        "dist_v_m": 30.479999999999905,
+        "horizontal_ratio": 0.21966969867609648,
+        "vertical_ratio": 0.22222222222222154,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.21966969867609648,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.748564395,
+          -23.524799715,
+          1021.0799999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 45032.0,
+        "start_simt": 45027.0,
+        "end_simt": 45034.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0005",
+        "id_b": "EC1.1_0062",
+        "dist_h_m": 201.20582136038004,
+        "dist_v_m": 1.199416000000042,
+        "horizontal_ratio": 0.4024116427207601,
+        "vertical_ratio": 0.008744648585593774,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.008744648585593774,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68797424,
+          -23.58896606,
+          845.2159819999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 45133.0,
+        "start_simt": 45133.0,
+        "end_simt": 45139.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0062",
+        "id_b": "HP100_0064",
+        "dist_h_m": 421.7178765091187,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8434357530182374,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73407195,
+          -23.54593141,
+          1005.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 46546.0,
+        "start_simt": 46546.0,
+        "end_simt": 46554.0,
+        "duration_s": 9.0,
+        "id_a": "HP100_0071",
+        "id_b": "HP100_0072",
+        "dist_h_m": 476.63850302583757,
+        "dist_v_m": 7.290255000000002,
+        "horizontal_ratio": 0.9532770060516751,
+        "vertical_ratio": 0.05315146544181979,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.05315146544181979,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6346122,
+          -23.513360730000002,
+          726.6307274999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 47089.0,
+        "start_simt": 47089.0,
+        "end_simt": 47093.0,
+        "duration_s": 5.0,
+        "id_a": "HP100_0074",
+        "id_b": "HP100_0076",
+        "dist_h_m": 386.5316542804149,
+        "dist_v_m": 28.668977999999925,
+        "horizontal_ratio": 0.7730633085608298,
+        "vertical_ratio": 0.20901850393700733,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.20901850393700733,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.746861179999996,
+          -23.52249611,
+          1021.985511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 47120.0,
+        "start_simt": 47118.0,
+        "end_simt": 47130.0,
+        "duration_s": 13.0,
+        "id_a": "HP100_0074",
+        "id_b": "HP100_0077",
+        "dist_h_m": 335.2222579481175,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.670444515896235,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73111411,
+          -23.508889144999998,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 47158.0,
+        "start_simt": 47158.0,
+        "end_simt": 47204.0,
+        "duration_s": 47.0,
+        "id_a": "HP100_0074",
+        "id_b": "HP100_0077",
+        "dist_h_m": 457.0509714339999,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9141019428679998,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.75427705,
+          -23.498227,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 47209.0,
+        "start_simt": 47209.0,
+        "end_simt": 47214.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0076",
+        "id_b": "HP100_0079",
+        "dist_h_m": 405.79677520835037,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8115935504167008,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.726494855,
+          -23.596131104999998,
+          1021.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 47296.0,
+        "start_simt": 47291.0,
+        "end_simt": 47301.0,
+        "duration_s": 11.0,
+        "id_a": "HP100_0078",
+        "id_b": "HP100_0080",
+        "dist_h_m": 60.19564827065621,
+        "dist_v_m": 80.91582000000005,
+        "horizontal_ratio": 0.12039129654131242,
+        "vertical_ratio": 0.5899374453193355,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.12039129654131242,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.639527060000006,
+          -23.51801949,
+          763.4435100000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 47323.0,
+        "start_simt": 47323.0,
+        "end_simt": 47333.0,
+        "duration_s": 11.0,
+        "id_a": "HP100_0078",
+        "id_b": "HP100_0081",
+        "dist_h_m": 233.97067479524532,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.4679413495904906,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.633654535000005,
+          -23.50986407,
+          722.9856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 47483.0,
+        "start_simt": 47481.0,
+        "end_simt": 47486.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0063",
+        "id_b": "HP100_0080",
+        "dist_h_m": 151.98130021391404,
+        "dist_v_m": 81.91865800000005,
+        "horizontal_ratio": 0.3039626004278281,
+        "vertical_ratio": 0.5972488918051914,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.3039626004278281,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74453726,
+          -23.536631735,
+          964.880671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 48126.0,
+        "start_simt": 48123.0,
+        "end_simt": 48126.0,
+        "duration_s": 4.0,
+        "id_a": "EC1.1_0146",
+        "id_b": "HP100_0085",
+        "dist_h_m": 469.2531936984026,
+        "dist_v_m": 11.702853999999888,
+        "horizontal_ratio": 0.9385063873968051,
+        "vertical_ratio": 0.0853226450860301,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0853226450860301,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.75108848,
+          -23.52439252,
+          1030.468573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 49417.0,
+        "start_simt": 49417.0,
+        "end_simt": 49421.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0006",
+        "id_b": "EC1.1_0134",
+        "dist_h_m": 387.38715951092075,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.7747743190218415,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.78141133,
+          -23.520619410000002,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 49552.0,
+        "start_simt": 49552.0,
+        "end_simt": 49616.0,
+        "duration_s": 65.0,
+        "id_a": "EC1.1_0072",
+        "id_b": "EC1.1_0095",
+        "dist_h_m": 114.67335182488102,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.22934670364976203,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.685219345,
+          -23.59069784,
+          818.0832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 49566.0,
+        "start_simt": 49558.0,
+        "end_simt": 49568.0,
+        "duration_s": 11.0,
+        "id_a": "EC1.1_0072",
+        "id_b": "HP100_0088",
+        "dist_h_m": 364.5111132543566,
+        "dist_v_m": 0.29908800000009705,
+        "horizontal_ratio": 0.7290222265087132,
+        "vertical_ratio": 0.00218057742782223,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.00218057742782223,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68312329,
+          -23.586495005,
+          835.1794620000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 49568.0,
+        "start_simt": 49556.0,
+        "end_simt": 49568.0,
+        "duration_s": 13.0,
+        "id_a": "EC1.1_0095",
+        "id_b": "HP100_0088",
+        "dist_h_m": 470.8096249058918,
+        "dist_v_m": 7.511947999999961,
+        "horizontal_ratio": 0.9416192498117836,
+        "vertical_ratio": 0.05476777486147537,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.05476777486147537,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.683152989999996,
+          -23.585431755000002,
+          854.9493319999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 49578.0,
+        "start_simt": 49577.0,
+        "end_simt": 49585.0,
+        "duration_s": 9.0,
+        "id_a": "EC1.1_0006",
+        "id_b": "HP100_0088",
+        "dist_h_m": 389.6617174485275,
+        "dist_v_m": 3.342931999999905,
+        "horizontal_ratio": 0.779323434897055,
+        "vertical_ratio": 0.02437249927092378,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.02437249927092378,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69178344,
+          -23.584616425,
+          930.3390919999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 49592.0,
+        "start_simt": 49592.0,
+        "end_simt": 49598.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0037",
+        "id_b": "EC1.1_0095",
+        "dist_h_m": 478.1369884008259,
+        "dist_v_m": 49.35282600000005,
+        "horizontal_ratio": 0.9562739768016517,
+        "vertical_ratio": 0.3598193788276469,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.3598193788276469,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.671087560000004,
+          -23.575716524999997,
+          907.682013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 49593.0,
+        "start_simt": 49593.0,
+        "end_simt": 49600.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0037",
+        "id_b": "EC1.1_0072",
+        "dist_h_m": 438.4595618486519,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8769191236973038,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.670693235,
+          -23.577061395,
+          883.0056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 49896.0,
+        "start_simt": 49896.0,
+        "end_simt": 49901.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0095",
+        "id_b": "HP100_0089",
+        "dist_h_m": 449.16004521289574,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.8983200904257915,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.493279145,
+          -23.48973713,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 49913.0,
+        "start_simt": 49908.0,
+        "end_simt": 49913.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0095",
+        "id_b": "HP100_0090",
+        "dist_h_m": 496.8867411885895,
+        "dist_v_m": 6.474209999999971,
+        "horizontal_ratio": 0.993773482377179,
+        "vertical_ratio": 0.04720188101487293,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.04720188101487293,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.484822460000004,
+          -23.487526555000002,
+          948.117105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 50527.0,
+        "start_simt": 50527.0,
+        "end_simt": 50532.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0166",
+        "id_b": "HP100_0091",
+        "dist_h_m": 441.4089437822891,
+        "dist_v_m": 25.681922999999983,
+        "horizontal_ratio": 0.8828178875645782,
+        "vertical_ratio": 0.18724061679790013,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.18724061679790013,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57689623,
+          -23.538774475,
+          962.5190385000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 50609.0,
+        "start_simt": 50609.0,
+        "end_simt": 50611.0,
+        "duration_s": 3.0,
+        "id_a": "HP100_0091",
+        "id_b": "HP100_0092",
+        "dist_h_m": 497.05503571056875,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9941100714211375,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.623904115,
+          -23.541800780000003,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 50643.0,
+        "start_simt": 50638.0,
+        "end_simt": 50643.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0091",
+        "id_b": "HP100_0093",
+        "dist_h_m": 484.9340059615198,
+        "dist_v_m": 1.334194000000025,
+        "horizontal_ratio": 0.9698680119230396,
+        "vertical_ratio": 0.009727282006416047,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.009727282006416047,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.641607305,
+          -23.53323258,
+          944.212903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 52252.0,
+        "start_simt": 52248.0,
+        "end_simt": 52255.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0073",
+        "id_b": "HP100_0099",
+        "dist_h_m": 116.83745547061906,
+        "dist_v_m": 50.283952,
+        "horizontal_ratio": 0.23367491094123813,
+        "vertical_ratio": 0.3666079906678332,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.23367491094123813,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66132128,
+          -23.567445489999997,
+          908.147576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 52370.0,
+        "start_simt": 52364.0,
+        "end_simt": 52370.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0167",
+        "id_b": "HP100_0100",
+        "dist_h_m": 406.8858369525848,
+        "dist_v_m": 1.6727839999999787,
+        "horizontal_ratio": 0.8137716739051696,
+        "vertical_ratio": 0.012195858850976807,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.012195858850976807,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.471896515,
+          -23.448943325000002,
+          812.914833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 52394.0,
+        "start_simt": 52389.0,
+        "end_simt": 52394.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0098",
+        "id_b": "HP100_0100",
+        "dist_h_m": 364.4025847339699,
+        "dist_v_m": 32.00287899999989,
+        "horizontal_ratio": 0.7288051694679398,
+        "vertical_ratio": 0.23332516039661633,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.23332516039661633,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4705813,
+          -23.463562205000002,
+          880.0259605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 53439.0,
+        "start_simt": 53436.0,
+        "end_simt": 53442.0,
+        "duration_s": 7.0,
+        "id_a": "HP100_0104",
+        "id_b": "HP100_0105",
+        "dist_h_m": 23.71940428503985,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.0474388085700797,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0474388085700797,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5166161,
+          -23.495909394999998,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 54101.0,
+        "start_simt": 54099.0,
+        "end_simt": 54106.0,
+        "duration_s": 8.0,
+        "id_a": "HP100_0109",
+        "id_b": "HP100_0110",
+        "dist_h_m": 218.10685008228162,
+        "dist_v_m": 3.2104459999999335,
+        "horizontal_ratio": 0.43621370016456323,
+        "vertical_ratio": 0.023406576261300188,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.023406576261300188,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.638238795,
+          -23.51775081,
+          799.5806319999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 54729.0,
+        "start_simt": 54729.0,
+        "end_simt": 54733.0,
+        "duration_s": 5.0,
+        "id_a": "HP100_0113",
+        "id_b": "HP100_0114",
+        "dist_h_m": 445.785855832493,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8915717116649859,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74847104,
+          -23.5247314,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 55247.0,
+        "start_simt": 55244.0,
+        "end_simt": 55250.0,
+        "duration_s": 7.0,
+        "id_a": "HP100_0116",
+        "id_b": "HP100_0117",
+        "dist_h_m": 59.618280191370964,
+        "dist_v_m": 30.479999999999905,
+        "horizontal_ratio": 0.11923656038274193,
+        "vertical_ratio": 0.22222222222222154,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.11923656038274193,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.749179655,
+          -23.52822251,
+          1021.0799999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 59650.0,
+        "start_simt": 59650.0,
+        "end_simt": 59655.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0121",
+        "id_b": "HP100_0130",
+        "dist_h_m": 394.64668143062494,
+        "dist_v_m": 45.10623399999997,
+        "horizontal_ratio": 0.7892933628612498,
+        "vertical_ratio": 0.3288585156022162,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.3288585156022162,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.730496845000005,
+          -23.515062075,
+          1013.766883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 59654.0,
+        "start_simt": 59654.0,
+        "end_simt": 59660.0,
+        "duration_s": 7.0,
+        "id_a": "HP100_0120",
+        "id_b": "HP100_0121",
+        "dist_h_m": 470.9255144415064,
+        "dist_v_m": 39.2307669999999,
+        "horizontal_ratio": 0.9418510288830128,
+        "vertical_ratio": 0.2860219233012533,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.2860219233012533,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.734133990000004,
+          -23.514885485,
+          1016.7046164999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 59658.0,
+        "start_simt": 59658.0,
+        "end_simt": 59663.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0119",
+        "id_b": "HP100_0130",
+        "dist_h_m": 491.1432618626667,
+        "dist_v_m": 60.95999999999992,
+        "horizontal_ratio": 0.9822865237253334,
+        "vertical_ratio": 0.44444444444444386,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.44444444444444386,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72390048,
+          -23.51495602,
+          1005.8399999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 59669.0,
+        "start_simt": 59669.0,
+        "end_simt": 59674.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0121",
+        "id_b": "HP100_0129",
+        "dist_h_m": 462.3321282635972,
+        "dist_v_m": 6.470240999999987,
+        "horizontal_ratio": 0.9246642565271944,
+        "vertical_ratio": 0.047172944006999035,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.047172944006999035,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.743376505,
+          -23.51922566,
+          1033.0848795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 59677.0,
+        "start_simt": 59677.0,
+        "end_simt": 59682.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0119",
+        "id_b": "HP100_0129",
+        "dist_h_m": 404.4340862392924,
+        "dist_v_m": 23.631010999999944,
+        "horizontal_ratio": 0.8088681724785848,
+        "vertical_ratio": 0.17228791921843062,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.17228791921843062,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.737938035,
+          -23.516852695,
+          1024.5044945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 59689.0,
+        "start_simt": 59689.0,
+        "end_simt": 59693.0,
+        "duration_s": 5.0,
+        "id_a": "HP100_0126",
+        "id_b": "HP100_0130",
+        "dist_h_m": 430.1780996338803,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8603561992677606,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.699668880000004,
+          -23.519396705,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 59864.0,
+        "start_simt": 59864.0,
+        "end_simt": 59869.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0122",
+        "id_b": "HP100_0130",
+        "dist_h_m": 458.32095275015223,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.9166419055003044,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.56985623,
+          -23.533110425,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 59883.0,
+        "start_simt": 59883.0,
+        "end_simt": 59887.0,
+        "duration_s": 5.0,
+        "id_a": "HP100_0130",
+        "id_b": "HP100_0131",
+        "dist_h_m": 375.33938986710217,
+        "dist_v_m": 2.809319999999957,
+        "horizontal_ratio": 0.7506787797342044,
+        "vertical_ratio": 0.020482064741906947,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.020482064741906947,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.559981255,
+          -23.524516825,
+          946.28466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 59887.0,
+        "start_simt": 59887.0,
+        "end_simt": 59893.0,
+        "duration_s": 7.0,
+        "id_a": "HP100_0122",
+        "id_b": "HP100_0133",
+        "dist_h_m": 495.9225773094961,
+        "dist_v_m": 2.985900000000015,
+        "horizontal_ratio": 0.9918451546189921,
+        "vertical_ratio": 0.02176946631671052,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.02176946631671052,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.582823115,
+          -23.5395514,
+          973.8670500000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 59906.0,
+        "start_simt": 59906.0,
+        "end_simt": 59911.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0131",
+        "id_b": "HP100_0133",
+        "dist_h_m": 397.7585055535356,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.7955170111070712,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57150994,
+          -23.534667329999998,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 60184.0,
+        "start_simt": 60184.0,
+        "end_simt": 60190.0,
+        "duration_s": 7.0,
+        "id_a": "HP100_0131",
+        "id_b": "HP100_0134",
+        "dist_h_m": 460.06962903451614,
+        "dist_v_m": 21.672559999999976,
+        "horizontal_ratio": 0.9201392580690323,
+        "vertical_ratio": 0.15800933216681232,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.15800933216681232,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.740293815,
+          -23.51706636,
+          1025.48372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 65079.0,
+        "start_simt": 65079.0,
+        "end_simt": 65083.0,
+        "duration_s": 5.0,
+        "id_a": "HP100_0154",
+        "id_b": "HP100_0155",
+        "dist_h_m": 417.06162986527846,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8341232597305569,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55043774,
+          -23.51271733,
+          944.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 65223.0,
+        "start_simt": 65223.0,
+        "end_simt": 65229.0,
+        "duration_s": 7.0,
+        "id_a": "HP100_0155",
+        "id_b": "HP100_0156",
+        "dist_h_m": 391.96609309745475,
+        "dist_v_m": 10.343601000000035,
+        "horizontal_ratio": 0.7839321861949095,
+        "vertical_ratio": 0.07541266404199501,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.07541266404199501,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.643265575,
+          -23.525900460000003,
+          859.0780195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 65329.0,
+        "start_simt": 65329.0,
+        "end_simt": 65334.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0156",
+        "id_b": "HP100_0157",
+        "dist_h_m": 389.77179170931754,
+        "dist_v_m": 28.234259000000065,
+        "horizontal_ratio": 0.779543583418635,
+        "vertical_ratio": 0.20584907407407455,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.20584907407407455,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.67767557,
+          -23.565678945000002,
+          991.7228705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 66572.0,
+        "start_simt": 66572.0,
+        "end_simt": 66578.0,
+        "duration_s": 7.0,
+        "id_a": "HP100_0161",
+        "id_b": "HP100_0162",
+        "dist_h_m": 426.5593414620987,
+        "dist_v_m": 5.116219999999998,
+        "horizontal_ratio": 0.8531186829241973,
+        "vertical_ratio": 0.037301108194808974,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.037301108194808974,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.526488064999995,
+          -23.49780325,
+          972.80189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 66612.0,
+        "start_simt": 66612.0,
+        "end_simt": 66617.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0168",
+        "id_b": "HP100_0162",
+        "dist_h_m": 499.69094556753464,
+        "dist_v_m": 25.48634500000003,
+        "horizontal_ratio": 0.9993818911350693,
+        "vertical_ratio": 0.1858147054534852,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.1858147054534852,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.542212735,
+          -23.503094339999997,
+          962.6168275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 66910.0,
+        "start_simt": 66910.0,
+        "end_simt": 66914.0,
+        "duration_s": 5.0,
+        "id_a": "HP100_0162",
+        "id_b": "HP100_0164",
+        "dist_h_m": 374.2059360283492,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.7484118720566983,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.704108835,
+          -23.518097665,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 68601.0,
+        "start_simt": 68601.0,
+        "end_simt": 68606.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0012",
+        "id_b": "HP100_0171",
+        "dist_h_m": 470.5622234628886,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9411244469257772,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.77824796,
+          -23.52117518,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 68713.0,
+        "start_simt": 68713.0,
+        "end_simt": 68715.0,
+        "duration_s": 3.0,
+        "id_a": "HP100_0173",
+        "id_b": "HP100_0174",
+        "dist_h_m": 486.2690692546669,
+        "dist_v_m": 22.034902999999986,
+        "horizontal_ratio": 0.9725381385093338,
+        "vertical_ratio": 0.1606510863225429,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.1606510863225429,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.655908575,
+          -23.6239692,
+          813.8606515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 69286.0,
+        "start_simt": 69286.0,
+        "end_simt": 69290.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0124",
+        "id_b": "HP100_0177",
+        "dist_h_m": 497.41723181490136,
+        "dist_v_m": 79.754412,
+        "horizontal_ratio": 0.9948344636298028,
+        "vertical_ratio": 0.5814699037620298,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.5814699037620298,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69265724500001,
+          -23.591841855,
+          929.997717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 69401.0,
+        "start_simt": 69396.0,
+        "end_simt": 69404.0,
+        "duration_s": 9.0,
+        "id_a": "EC1.1_0001",
+        "id_b": "EC1.1_0031",
+        "dist_h_m": 141.5356019829759,
+        "dist_v_m": 1.762010000000032,
+        "horizontal_ratio": 0.28307120396595176,
+        "vertical_ratio": 0.012846383785360398,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.012846383785360398,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.849054815,
+          -23.489254855,
+          889.568045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 69668.0,
+        "start_simt": 69668.0,
+        "end_simt": 69674.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0001",
+        "id_b": "HP100_0179",
+        "dist_h_m": 449.571969869333,
+        "dist_v_m": 0.582930000000033,
+        "horizontal_ratio": 0.8991439397386659,
+        "vertical_ratio": 0.0042500000000002406,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0042500000000002406,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.676046940000006,
+          -23.526333965,
+          975.651465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 70983.0,
+        "start_simt": 70978.0,
+        "end_simt": 70986.0,
+        "duration_s": 9.0,
+        "id_a": "EC1.1_0008",
+        "id_b": "EC1.1_0101",
+        "dist_h_m": 147.4584117016755,
+        "dist_v_m": 2.504921999999965,
+        "horizontal_ratio": 0.29491682340335096,
+        "vertical_ratio": 0.01826277340332433,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.01826277340332433,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.85128674,
+          -23.488514735,
+          879.068659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 71243.0,
+        "start_simt": 71243.0,
+        "end_simt": 71249.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0008",
+        "id_b": "EC1.1_0090",
+        "dist_h_m": 441.32883241934053,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.882657664838681,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.700630024999995,
+          -23.571157865,
+          1005.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 71339.0,
+        "start_simt": 71339.0,
+        "end_simt": 71343.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0096",
+        "id_b": "EC1.1_0179",
+        "dist_h_m": 476.80114833137645,
+        "dist_v_m": 18.253018999999995,
+        "horizontal_ratio": 0.9536022966627529,
+        "vertical_ratio": 0.13307829542140562,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.13307829542140562,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64472336,
+          -23.583027265,
+          996.7134905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 71381.0,
+        "start_simt": 71378.0,
+        "end_simt": 71385.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0179",
+        "id_b": "HP100_0191",
+        "dist_h_m": 117.69889408464057,
+        "dist_v_m": 1.494083000000046,
+        "horizontal_ratio": 0.23539778816928114,
+        "vertical_ratio": 0.010892993584135651,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.010892993584135651,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.671567679999995,
+          -23.576806445,
+          910.2019415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 71390.0,
+        "start_simt": 71385.0,
+        "end_simt": 71390.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0052",
+        "id_b": "HP100_0191",
+        "dist_h_m": 477.6437104336097,
+        "dist_v_m": 41.275135999999975,
+        "horizontal_ratio": 0.9552874208672194,
+        "vertical_ratio": 0.3009269174686496,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.3009269174686496,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.672391335,
+          -23.571474549999998,
+          978.744908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 71412.0,
+        "start_simt": 71412.0,
+        "end_simt": 71415.0,
+        "duration_s": 4.0,
+        "id_a": "EC1.1_0052",
+        "id_b": "HP100_0191",
+        "dist_h_m": 492.7863343906204,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9855726687812408,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.679253175,
+          -23.560771709999997,
+          1005.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 71498.0,
+        "start_simt": 71498.0,
+        "end_simt": 71542.0,
+        "duration_s": 45.0,
+        "id_a": "EC1.1_0052",
+        "id_b": "HP100_0191",
+        "dist_h_m": 487.8145044667919,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9756290089335838,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.695999455000006,
+          -23.517749885,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 71531.0,
+        "start_simt": 71531.0,
+        "end_simt": 71536.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0096",
+        "id_b": "EC1.1_0186",
+        "dist_h_m": 404.77021107394677,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.8095404221478936,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.53975392,
+          -23.502053155,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 71549.0,
+        "start_simt": 71546.0,
+        "end_simt": 71551.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0135",
+        "id_b": "HP100_0190",
+        "dist_h_m": 280.5386244784891,
+        "dist_v_m": 1.2516379999999572,
+        "horizontal_ratio": 0.5610772489569782,
+        "vertical_ratio": 0.009125386410031768,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.009125386410031768,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.742125905,
+          -23.53857295,
+          876.702361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 71583.0,
+        "start_simt": 71574.0,
+        "end_simt": 71587.0,
+        "duration_s": 14.0,
+        "id_a": "EC1.1_0052",
+        "id_b": "EC1.1_0135",
+        "dist_h_m": 398.9146043067507,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.7978292086135014,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.755129714999995,
+          -23.52397697,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 71592.0,
+        "start_simt": 71592.0,
+        "end_simt": 71658.0,
+        "duration_s": 67.0,
+        "id_a": "EC1.1_0052",
+        "id_b": "EC1.1_0135",
+        "dist_h_m": 496.97780815061054,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9939556163012211,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.761474765,
+          -23.522299245,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72186.0,
+        "start_simt": 72186.0,
+        "end_simt": 72190.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0027",
+        "id_b": "EC1.1_0195",
+        "dist_h_m": 402.1950653312474,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8043901306624948,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70000102,
+          -23.51952227,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72292.0,
+        "start_simt": 72292.0,
+        "end_simt": 72297.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0027",
+        "id_b": "EC1.1_0174",
+        "dist_h_m": 375.8226015204204,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.7516452030408408,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.626326605,
+          -23.539413445,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72419.0,
+        "start_simt": 72419.0,
+        "end_simt": 72423.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0114",
+        "id_b": "EC1.1_0174",
+        "dist_h_m": 430.3863050853914,
+        "dist_v_m": 16.55630999999994,
+        "horizontal_ratio": 0.8607726101707829,
+        "vertical_ratio": 0.1207080052493434,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.1207080052493434,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.71386775,
+          -23.516139875,
+          983.638155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72440.0,
+        "start_simt": 72440.0,
+        "end_simt": 72445.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0132",
+        "id_b": "EC1.1_0174",
+        "dist_h_m": 385.89483808562636,
+        "dist_v_m": 48.655186999999955,
+        "horizontal_ratio": 0.7717896761712527,
+        "vertical_ratio": 0.3547330635753861,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.3547330635753861,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72889585,
+          -23.514869075,
+          1011.9924065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72465.0,
+        "start_simt": 72465.0,
+        "end_simt": 72468.0,
+        "duration_s": 4.0,
+        "id_a": "EC1.1_0114",
+        "id_b": "HP100_0193",
+        "dist_h_m": 441.2601697526587,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8825203395053175,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.680846805,
+          -23.52253366,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72472.0,
+        "start_simt": 72469.0,
+        "end_simt": 72476.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0104",
+        "id_b": "EC1.1_0148",
+        "dist_h_m": 285.78332322451166,
+        "dist_v_m": 1.248487999999952,
+        "horizontal_ratio": 0.5715666464490233,
+        "vertical_ratio": 0.009102420530766639,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.009102420530766639,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.769233674999995,
+          -23.48219989,
+          975.984244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72479.0,
+        "start_simt": 72479.0,
+        "end_simt": 72484.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0114",
+        "id_b": "HP100_0194",
+        "dist_h_m": 360.7429942782307,
+        "dist_v_m": 21.212234999999964,
+        "horizontal_ratio": 0.7214859885564614,
+        "vertical_ratio": 0.15465321522309686,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.15465321522309686,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.67056996,
+          -23.524846385,
+          964.7538825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72484.0,
+        "start_simt": 72484.0,
+        "end_simt": 72490.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0132",
+        "id_b": "HP100_0193",
+        "dist_h_m": 485.2313967377452,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9704627934754904,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.696097585,
+          -23.520888615,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72499.0,
+        "start_simt": 72499.0,
+        "end_simt": 72504.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0132",
+        "id_b": "HP100_0194",
+        "dist_h_m": 496.0756428479868,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9921512856959736,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68537100499999,
+          -23.52228214,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72549.0,
+        "start_simt": 72549.0,
+        "end_simt": 72551.0,
+        "duration_s": 3.0,
+        "id_a": "EC1.1_0104",
+        "id_b": "HP100_0193",
+        "dist_h_m": 494.33383370539644,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9886676674107929,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73999111,
+          -23.50811544,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72561.0,
+        "start_simt": 72561.0,
+        "end_simt": 72567.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0104",
+        "id_b": "HP100_0194",
+        "dist_h_m": 491.9915746185832,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9839831492371663,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72964317,
+          -23.510785255000002,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72604.0,
+        "start_simt": 72604.0,
+        "end_simt": 72609.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0113",
+        "id_b": "HP100_0194",
+        "dist_h_m": 496.4007875377375,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.992801575075475,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.755572565,
+          -23.500274915,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72630.0,
+        "start_simt": 72626.0,
+        "end_simt": 72634.0,
+        "duration_s": 9.0,
+        "id_a": "EC1.1_0028",
+        "id_b": "EC1.1_0174",
+        "dist_h_m": 51.4681535103381,
+        "dist_v_m": 1.4959499999999935,
+        "horizontal_ratio": 0.1029363070206762,
+        "vertical_ratio": 0.010906605424321912,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.010906605424321912,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.852901875,
+          -23.48793249,
+          871.308855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72675.0,
+        "start_simt": 72675.0,
+        "end_simt": 72680.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0028",
+        "id_b": "EC1.1_0066",
+        "dist_h_m": 435.50536365976313,
+        "dist_v_m": 18.90528000000006,
+        "horizontal_ratio": 0.8710107273195262,
+        "vertical_ratio": 0.1378337707786531,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.1378337707786531,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.833289789999995,
+          -23.494466,
+          923.8526400000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72699.0,
+        "start_simt": 72699.0,
+        "end_simt": 72705.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0104",
+        "id_b": "HP100_0195",
+        "dist_h_m": 409.46037044414305,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8189207408882861,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.680280894999996,
+          -23.55907644,
+          1005.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72722.0,
+        "start_simt": 72722.0,
+        "end_simt": 72733.0,
+        "duration_s": 12.0,
+        "id_a": "EC1.1_0097",
+        "id_b": "EC1.1_0104",
+        "dist_h_m": 470.13207529431367,
+        "dist_v_m": 52.88994200000002,
+        "horizontal_ratio": 0.9402641505886273,
+        "vertical_ratio": 0.3856076261300672,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.3856076261300672,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.670073975,
+          -23.57046102,
+          939.355035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 72738.0,
+        "start_simt": 72735.0,
+        "end_simt": 72742.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0097",
+        "id_b": "EC1.1_0158",
+        "dist_h_m": 44.146631223359954,
+        "dist_v_m": 91.44000000000005,
+        "horizontal_ratio": 0.08829326244671991,
+        "vertical_ratio": 0.6666666666666671,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.08829326244671991,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65763689,
+          -23.573444934999998,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73061.0,
+        "start_simt": 73058.0,
+        "end_simt": 73064.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0097",
+        "id_b": "EC1.1_0187",
+        "dist_h_m": 155.21568115771663,
+        "dist_v_m": 49.11141999999995,
+        "horizontal_ratio": 0.3104313623154333,
+        "vertical_ratio": 0.3580593467483228,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.3104313623154333,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.469701505,
+          -23.47354747,
+          889.84429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73062.0,
+        "start_simt": 73062.0,
+        "end_simt": 73099.0,
+        "duration_s": 38.0,
+        "id_a": "EC1.1_0190",
+        "id_b": "HP100_0197",
+        "dist_h_m": 134.337839987282,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.268675679974564,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.473014875000004,
+          -23.436158884999998,
+          750.1128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73098.0,
+        "start_simt": 73091.0,
+        "end_simt": 73098.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0097",
+        "id_b": "HP100_0197",
+        "dist_h_m": 483.2653279116768,
+        "dist_v_m": 0.8131220000000212,
+        "horizontal_ratio": 0.9665306558233536,
+        "vertical_ratio": 0.005928273549139846,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.005928273549139846,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.471733655,
+          -23.450825469999998,
+          821.888014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73102.0,
+        "start_simt": 73094.0,
+        "end_simt": 73102.0,
+        "duration_s": 9.0,
+        "id_a": "EC1.1_0097",
+        "id_b": "EC1.1_0190",
+        "dist_h_m": 497.26947976911345,
+        "dist_v_m": 1.81737499999997,
+        "horizontal_ratio": 0.9945389595382269,
+        "vertical_ratio": 0.013250036453776393,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.013250036453776393,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.47196937,
+          -23.448211915,
+          806.5278874999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73152.0,
+        "start_simt": 73149.0,
+        "end_simt": 73155.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0028",
+        "id_b": "EC1.1_0187",
+        "dist_h_m": 39.21547309448544,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.07843094618897088,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.07843094618897088,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.523256705,
+          -23.497745584999997,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73182.0,
+        "start_simt": 73182.0,
+        "end_simt": 73187.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0028",
+        "id_b": "HP100_0197",
+        "dist_h_m": 446.438481383726,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.892876962767452,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4998497,
+          -23.491543534999998,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73192.0,
+        "start_simt": 73192.0,
+        "end_simt": 73195.0,
+        "duration_s": 4.0,
+        "id_a": "EC1.1_0028",
+        "id_b": "EC1.1_0190",
+        "dist_h_m": 489.53288537213285,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.9790657707442657,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.49325197,
+          -23.490660055,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73329.0,
+        "start_simt": 73329.0,
+        "end_simt": 73334.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0192",
+        "id_b": "HP100_0198",
+        "dist_h_m": 369.90455520844955,
+        "dist_v_m": 10.19354199999998,
+        "horizontal_ratio": 0.7398091104168991,
+        "vertical_ratio": 0.07431862058909289,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.07431862058909289,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.662730429999996,
+          -23.525942155,
+          949.976771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73353.0,
+        "start_simt": 73353.0,
+        "end_simt": 73355.0,
+        "duration_s": 3.0,
+        "id_a": "EC1.1_0155",
+        "id_b": "EC1.1_0192",
+        "dist_h_m": 474.37500770409025,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.9487500154081805,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.67847686,
+          -23.525880514999997,
+          990.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73388.0,
+        "start_simt": 73388.0,
+        "end_simt": 73388.0,
+        "duration_s": 1.0,
+        "id_a": "EC1.1_0194",
+        "id_b": "HP100_0198",
+        "dist_h_m": 17.32416938084195,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.034648338761683904,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63302267,
+          -23.509075075,
+          722.9856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73402.0,
+        "start_simt": 73402.0,
+        "end_simt": 73407.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0155",
+        "id_b": "HP100_0197",
+        "dist_h_m": 422.22741845621454,
+        "dist_v_m": 63.72209399999997,
+        "horizontal_ratio": 0.8444548369124291,
+        "vertical_ratio": 0.4645821959755029,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.4645821959755029,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.643084200000004,
+          -23.528545755,
+          913.018953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73417.0,
+        "start_simt": 73417.0,
+        "end_simt": 73424.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0162",
+        "id_b": "EC1.1_0187",
+        "dist_h_m": 473.80944115210326,
+        "dist_v_m": 1.0280479999998988,
+        "horizontal_ratio": 0.9476188823042065,
+        "vertical_ratio": 0.007495246427529155,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.007495246427529155,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65405074,
+          -23.613916305,
+          887.439164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73418.0,
+        "start_simt": 73416.0,
+        "end_simt": 73423.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0155",
+        "id_b": "EC1.1_0194",
+        "dist_h_m": 225.24766620170536,
+        "dist_v_m": 3.5236899999999878,
+        "horizontal_ratio": 0.4504953324034107,
+        "vertical_ratio": 0.025690361621463896,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.025690361621463896,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.637980105,
+          -23.517535145,
+          789.915421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73436.0,
+        "start_simt": 73434.0,
+        "end_simt": 73441.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0190",
+        "id_b": "EC1.1_0194",
+        "dist_h_m": 218.58132508571765,
+        "dist_v_m": 2.2168850000000475,
+        "horizontal_ratio": 0.4371626501714353,
+        "vertical_ratio": 0.01616276611256961,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.01616276611256961,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.643171914999996,
+          -23.523444955000002,
+          835.1317735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73470.0,
+        "start_simt": 73470.0,
+        "end_simt": 73476.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0100",
+        "id_b": "EC1.1_0194",
+        "dist_h_m": 411.2899859482989,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8225799718965978,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.659786755,
+          -23.527907925,
+          944.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73478.0,
+        "start_simt": 73478.0,
+        "end_simt": 73482.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0140",
+        "id_b": "HP100_0197",
+        "dist_h_m": 370.2749117777842,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.7405498235555684,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70414305,
+          -23.518240669999997,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73506.0,
+        "start_simt": 73506.0,
+        "end_simt": 73511.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0140",
+        "id_b": "EC1.1_0194",
+        "dist_h_m": 408.584869467407,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8171697389348139,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.683964585,
+          -23.522512310000003,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73766.0,
+        "start_simt": 73766.0,
+        "end_simt": 73770.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0154",
+        "id_b": "HP100_0199",
+        "dist_h_m": 402.9479605596341,
+        "dist_v_m": 60.95999999999992,
+        "horizontal_ratio": 0.8058959211192682,
+        "vertical_ratio": 0.44444444444444386,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.44444444444444386,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.723802105000004,
+          -23.514847975,
+          1005.8399999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73835.0,
+        "start_simt": 73835.0,
+        "end_simt": 73840.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0154",
+        "id_b": "HP100_0201",
+        "dist_h_m": 439.163682533166,
+        "dist_v_m": 25.783198000000084,
+        "horizontal_ratio": 0.878327365066332,
+        "vertical_ratio": 0.18797898804316188,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.18797898804316188,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.67358901,
+          -23.52571114,
+          983.241983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 73967.0,
+        "start_simt": 73967.0,
+        "end_simt": 73971.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0154",
+        "id_b": "HP100_0200",
+        "dist_h_m": 457.3053470189264,
+        "dist_v_m": 8.361882000000037,
+        "horizontal_ratio": 0.9146106940378528,
+        "vertical_ratio": 0.060964435695538326,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.060964435695538326,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.582186775,
+          -23.53929514,
+          971.179059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74008.0,
+        "start_simt": 74008.0,
+        "end_simt": 74013.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0154",
+        "id_b": "EC1.1_0183",
+        "dist_h_m": 461.0352810224206,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9220705620448412,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.558991004999996,
+          -23.52346543,
+          944.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74086.0,
+        "start_simt": 74085.0,
+        "end_simt": 74089.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0143",
+        "id_b": "HP100_0203",
+        "dist_h_m": 64.32039083525618,
+        "dist_v_m": 116.80699800000002,
+        "horizontal_ratio": 0.12864078167051235,
+        "vertical_ratio": 0.8516112423447071,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.12864078167051235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73106887,
+          -23.54798684,
+          828.278141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74120.0,
+        "start_simt": 74117.0,
+        "end_simt": 74123.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0115",
+        "id_b": "HP100_0202",
+        "dist_h_m": 26.734981413319844,
+        "dist_v_m": 60.95999999999992,
+        "horizontal_ratio": 0.05346996282663969,
+        "vertical_ratio": 0.44444444444444386,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.05346996282663969,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.725030325,
+          -23.51363396,
+          1005.8399999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74121.0,
+        "start_simt": 74121.0,
+        "end_simt": 74126.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0050",
+        "id_b": "EC1.1_0115",
+        "dist_h_m": 438.6914173250587,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8773828346501173,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.722331545,
+          -23.51415371,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74125.0,
+        "start_simt": 74119.0,
+        "end_simt": 74125.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0079",
+        "id_b": "HP100_0200",
+        "dist_h_m": 370.67484899764577,
+        "dist_v_m": 2.982466000000045,
+        "horizontal_ratio": 0.7413496979952915,
+        "vertical_ratio": 0.02174442986293413,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.02174442986293413,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.670895155,
+          -23.576618425,
+          884.4968329999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74148.0,
+        "start_simt": 74148.0,
+        "end_simt": 74152.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0115",
+        "id_b": "HP100_0204",
+        "dist_h_m": 431.1171037168331,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8622342074336663,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70358669,
+          -23.517922215,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74164.0,
+        "start_simt": 74161.0,
+        "end_simt": 74167.0,
+        "duration_s": 7.0,
+        "id_a": "HP100_0202",
+        "id_b": "HP100_0205",
+        "dist_h_m": 35.1703767089014,
+        "dist_v_m": 30.479999999999905,
+        "horizontal_ratio": 0.0703407534178028,
+        "vertical_ratio": 0.22222222222222154,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0703407534178028,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74921555,
+          -23.528204635,
+          1021.0799999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74184.0,
+        "start_simt": 74184.0,
+        "end_simt": 74189.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0115",
+        "id_b": "EC1.1_0183",
+        "dist_h_m": 460.10752304839104,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9202150460967821,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.677544435,
+          -23.52349832,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74196.0,
+        "start_simt": 74193.0,
+        "end_simt": 74196.0,
+        "duration_s": 4.0,
+        "id_a": "EC1.1_0151",
+        "id_b": "HP100_0202",
+        "dist_h_m": 125.17263308412585,
+        "dist_v_m": 18.134700000000066,
+        "horizontal_ratio": 0.2503452661682517,
+        "vertical_ratio": 0.1322156605424327,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.1322156605424327,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73666628,
+          -23.546163035,
+          746.07375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74212.0,
+        "start_simt": 74212.0,
+        "end_simt": 74218.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0115",
+        "id_b": "EC1.1_0191",
+        "dist_h_m": 471.04287714006756,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9420857542801351,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65734166,
+          -23.528135365,
+          944.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74258.0,
+        "start_simt": 74255.0,
+        "end_simt": 74263.0,
+        "duration_s": 9.0,
+        "id_a": "EC1.1_0115",
+        "id_b": "EC1.1_0193",
+        "dist_h_m": 135.2984217507061,
+        "dist_v_m": 0.5887750000000551,
+        "horizontal_ratio": 0.2705968435014122,
+        "vertical_ratio": 0.004292614464858961,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.004292614464858961,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63485642,
+          -23.51221298,
+          739.7725485000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74348.0,
+        "start_simt": 74346.0,
+        "end_simt": 74350.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0102",
+        "id_b": "EC1.1_0183",
+        "dist_h_m": 113.50298173309136,
+        "dist_v_m": 107.36585400000001,
+        "horizontal_ratio": 0.2270059634661827,
+        "vertical_ratio": 0.7827781714785653,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.2270059634661827,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.779420810000005,
+          -23.47879927,
+          847.572627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74350.0,
+        "start_simt": 74349.0,
+        "end_simt": 74350.0,
+        "duration_s": 2.0,
+        "id_a": "EC1.1_0110",
+        "id_b": "EC1.1_0183",
+        "dist_h_m": 32.3129709049924,
+        "dist_v_m": 88.35035399999992,
+        "horizontal_ratio": 0.0646259418099848,
+        "vertical_ratio": 0.6441408136482935,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0646259418099848,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.780759335,
+          -23.478672189999997,
+          837.264777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74385.0,
+        "start_simt": 74349.0,
+        "end_simt": 74430.0,
+        "duration_s": 82.0,
+        "id_a": "EC1.1_0102",
+        "id_b": "EC1.1_0110",
+        "dist_h_m": 311.41643909291,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.62283287818582,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.76865134,
+          -23.47905205,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74396.0,
+        "start_simt": 74396.0,
+        "end_simt": 74418.0,
+        "duration_s": 23.0,
+        "id_a": "EC1.1_0085",
+        "id_b": "EC1.1_0087",
+        "dist_h_m": 114.67310921554667,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.22934621843109335,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.685971144999996,
+          -23.590762945,
+          818.0832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74414.0,
+        "start_simt": 74414.0,
+        "end_simt": 74419.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0061",
+        "id_b": "EC1.1_0193",
+        "dist_h_m": 487.5070628497289,
+        "dist_v_m": 32.97585000000004,
+        "horizontal_ratio": 0.9750141256994579,
+        "vertical_ratio": 0.24041885389326362,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.24041885389326362,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.677157315,
+          -23.566745609999998,
+          989.352075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74457.0,
+        "start_simt": 74457.0,
+        "end_simt": 74462.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0009",
+        "id_b": "EC1.1_0191",
+        "dist_h_m": 423.62187049692295,
+        "dist_v_m": 45.39736000000005,
+        "horizontal_ratio": 0.8472437409938459,
+        "vertical_ratio": 0.3309810440361625,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.3309810440361625,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.822836455,
+          -23.499469044999998,
+          937.0986800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74479.0,
+        "start_simt": 74479.0,
+        "end_simt": 74484.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0002",
+        "id_b": "EC1.1_0191",
+        "dist_h_m": 425.9444770068602,
+        "dist_v_m": 9.145039999999995,
+        "horizontal_ratio": 0.8518889540137204,
+        "vertical_ratio": 0.06667424905220178,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.06667424905220178,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.836612599999995,
+          -23.493308419999998,
+          918.97252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74489.0,
+        "start_simt": 74489.0,
+        "end_simt": 74494.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0061",
+        "id_b": "HP100_0209",
+        "dist_h_m": 374.51724988622215,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.7490344997724443,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.660432415,
+          -23.526295304999998,
+          944.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74519.0,
+        "start_simt": 74519.0,
+        "end_simt": 74524.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0198",
+        "id_b": "HP100_0207",
+        "dist_h_m": 482.2082516196539,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9644165032393077,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.591381104999996,
+          -23.540697065,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74542.0,
+        "start_simt": 74542.0,
+        "end_simt": 74552.0,
+        "duration_s": 11.0,
+        "id_a": "EC1.1_0085",
+        "id_b": "EC1.1_0102",
+        "dist_h_m": 498.19992022175546,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9963998404435109,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.745516890000005,
+          -23.528973225,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74553.0,
+        "start_simt": 74553.0,
+        "end_simt": 74558.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0177",
+        "id_b": "EC1.1_0198",
+        "dist_h_m": 379.75980442915846,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.7595196088583169,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.569798899999995,
+          -23.53324006,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74558.0,
+        "start_simt": 74558.0,
+        "end_simt": 74562.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0009",
+        "id_b": "EC1.1_0102",
+        "dist_h_m": 448.7517784151465,
+        "dist_v_m": 30.479999999999905,
+        "horizontal_ratio": 0.8975035568302929,
+        "vertical_ratio": 0.22222222222222154,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.22222222222222154,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.755724990000004,
+          -23.525055639999998,
+          1021.0799999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74582.0,
+        "start_simt": 74582.0,
+        "end_simt": 74587.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0002",
+        "id_b": "EC1.1_0102",
+        "dist_h_m": 433.8467524112297,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8676935048224594,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.773254925,
+          -23.52218303,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74629.0,
+        "start_simt": 74626.0,
+        "end_simt": 74631.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0175",
+        "id_b": "EC1.1_0198",
+        "dist_h_m": 107.89810851807337,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.21579621703614674,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.21579621703614674,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5310218,
+          -23.499595415,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74670.0,
+        "start_simt": 74670.0,
+        "end_simt": 74673.0,
+        "duration_s": 4.0,
+        "id_a": "EC1.1_0030",
+        "id_b": "EC1.1_0102",
+        "dist_h_m": 432.81128135394476,
+        "dist_v_m": 34.24279999999999,
+        "horizontal_ratio": 0.8656225627078895,
+        "vertical_ratio": 0.24965587634878966,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.24965587634878966,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.82790696,
+          -23.496319579999998,
+          931.5214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74706.0,
+        "start_simt": 74706.0,
+        "end_simt": 74707.0,
+        "duration_s": 2.0,
+        "id_a": "EC1.1_0184",
+        "id_b": "EC1.1_0198",
+        "dist_h_m": 484.1727613303003,
+        "dist_v_m": 6.954834000000005,
+        "horizontal_ratio": 0.9683455226606006,
+        "vertical_ratio": 0.05070599300087493,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.05070599300087493,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.474799825,
+          -23.48498817,
+          917.8774169999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74774.0,
+        "start_simt": 74774.0,
+        "end_simt": 74778.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0030",
+        "id_b": "EC1.1_0156",
+        "dist_h_m": 494.3908385442509,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9887816770885018,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.759235340000004,
+          -23.524194015,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74791.0,
+        "start_simt": 74786.0,
+        "end_simt": 74804.0,
+        "duration_s": 19.0,
+        "id_a": "HP100_0211",
+        "id_b": "HP100_0212",
+        "dist_h_m": 339.461686863055,
+        "dist_v_m": 1.7907000000000153,
+        "horizontal_ratio": 0.67892337372611,
+        "vertical_ratio": 0.013055555555555667,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.013055555555555667,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68620559,
+          -23.58850678,
+          817.18785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74827.0,
+        "start_simt": 74827.0,
+        "end_simt": 74839.0,
+        "duration_s": 13.0,
+        "id_a": "EC1.1_0030",
+        "id_b": "EC1.1_0106",
+        "dist_h_m": 497.7712724071922,
+        "dist_v_m": 48.00484800000004,
+        "horizontal_ratio": 0.9955425448143844,
+        "vertical_ratio": 0.34999160104986904,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.34999160104986904,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.726053645,
+          -23.513642660000002,
+          999.362424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74832.0,
+        "start_simt": 74832.0,
+        "end_simt": 74837.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0133",
+        "id_b": "EC1.1_0175",
+        "dist_h_m": 411.51648306833,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.82303296613666,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.659285955,
+          -23.526030935,
+          944.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74874.0,
+        "start_simt": 74874.0,
+        "end_simt": 74879.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0030",
+        "id_b": "EC1.1_0175",
+        "dist_h_m": 461.0148561849416,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9220297123698832,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68985402,
+          -23.52179141,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 74929.0,
+        "start_simt": 74929.0,
+        "end_simt": 74932.0,
+        "duration_s": 4.0,
+        "id_a": "EC1.1_0106",
+        "id_b": "HP100_0213",
+        "dist_h_m": 438.80179671120516,
+        "dist_v_m": 15.645674999999983,
+        "horizontal_ratio": 0.8776035934224103,
+        "vertical_ratio": 0.11406878827646531,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.11406878827646531,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.717676525,
+          -23.556536225,
+          998.0171625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75031.0,
+        "start_simt": 75024.0,
+        "end_simt": 75031.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0059",
+        "id_b": "HP100_0215",
+        "dist_h_m": 487.25936685124185,
+        "dist_v_m": 14.543907999999988,
+        "horizontal_ratio": 0.9745187337024837,
+        "vertical_ratio": 0.10603607465733442,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.10603607465733442,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65865695,
+          -23.581979115,
+          998.5680460000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75033.0,
+        "start_simt": 75033.0,
+        "end_simt": 75036.0,
+        "duration_s": 4.0,
+        "id_a": "HP100_0215",
+        "id_b": "HP100_0216",
+        "dist_h_m": 435.2314046972374,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8704628093944747,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.660003540000005,
+          -23.57721354,
+          1005.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75116.0,
+        "start_simt": 75116.0,
+        "end_simt": 75141.0,
+        "duration_s": 26.0,
+        "id_a": "EC1.1_0185",
+        "id_b": "HP100_0214",
+        "dist_h_m": 493.3471754868613,
+        "dist_v_m": 25.36378000000002,
+        "horizontal_ratio": 0.9866943509737226,
+        "vertical_ratio": 0.1849211140274134,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.1849211140274134,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.516108275,
+          -23.495092104999998,
+          957.56189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75200.0,
+        "start_simt": 75200.0,
+        "end_simt": 75205.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0185",
+        "id_b": "HP100_0216",
+        "dist_h_m": 404.04010642838756,
+        "dist_v_m": 22.48520599999995,
+        "horizontal_ratio": 0.8080802128567751,
+        "vertical_ratio": 0.1639341353164184,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.1639341353164184,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.562950189999995,
+          -23.527208585,
+          956.122603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75214.0,
+        "start_simt": 75214.0,
+        "end_simt": 75219.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0214",
+        "id_b": "HP100_0216",
+        "dist_h_m": 481.56473653394846,
+        "dist_v_m": 15.440110000000004,
+        "horizontal_ratio": 0.963129473067897,
+        "vertical_ratio": 0.11257006415864687,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.11257006415864687,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.555697245,
+          -23.519557655,
+          952.600055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75239.0,
+        "start_simt": 75239.0,
+        "end_simt": 75243.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0128",
+        "id_b": "EC1.1_0184",
+        "dist_h_m": 448.48948435659645,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8969789687131929,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.81744131,
+          -23.534029365000002,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75290.0,
+        "start_simt": 75286.0,
+        "end_simt": 75293.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0121",
+        "id_b": "EC1.1_0184",
+        "dist_h_m": 66.2346768171304,
+        "dist_v_m": 5.518835000000081,
+        "horizontal_ratio": 0.13246935363426082,
+        "vertical_ratio": 0.04023647564887781,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.04023647564887781,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.826983655,
+          -23.56478923,
+          815.4807545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75297.0,
+        "start_simt": 75294.0,
+        "end_simt": 75301.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0196",
+        "id_b": "HP100_0217",
+        "dist_h_m": 170.63474874834634,
+        "dist_v_m": 4.646202000000017,
+        "horizontal_ratio": 0.34126949749669266,
+        "vertical_ratio": 0.03387432195975515,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.03387432195975515,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.649905675,
+          -23.52919987,
+          923.1857829999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75381.0,
+        "start_simt": 75378.0,
+        "end_simt": 75384.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0180",
+        "id_b": "HP100_0216",
+        "dist_h_m": 64.76818302754926,
+        "dist_v_m": 42.84158200000002,
+        "horizontal_ratio": 0.12953636605509852,
+        "vertical_ratio": 0.31234749198016926,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.12953636605509852,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.471314165,
+          -23.456423514999997,
+          845.079571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75430.0,
+        "start_simt": 75430.0,
+        "end_simt": 75616.0,
+        "duration_s": 187.0,
+        "id_a": "EC1.1_0013",
+        "id_b": "EC1.1_0022",
+        "dist_h_m": 107.01172965473607,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.21402345930947214,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8561867,
+          -23.48686064,
+          858.012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75447.0,
+        "start_simt": 75442.0,
+        "end_simt": 75447.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0196",
+        "id_b": "HP100_0218",
+        "dist_h_m": 381.7342108016894,
+        "dist_v_m": 27.361440000000016,
+        "horizontal_ratio": 0.7634684216033788,
+        "vertical_ratio": 0.19948556430446207,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.19948556430446207,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74814777,
+          -23.524582785,
+          1019.52072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75456.0,
+        "start_simt": 75456.0,
+        "end_simt": 75462.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0185",
+        "id_b": "HP100_0218",
+        "dist_h_m": 467.56221485789746,
+        "dist_v_m": 19.817159999999944,
+        "horizontal_ratio": 0.9351244297157949,
+        "vertical_ratio": 0.14448206474190686,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.14448206474190686,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74096523,
+          -23.51731114,
+          1026.41142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75490.0,
+        "start_simt": 75490.0,
+        "end_simt": 75492.0,
+        "duration_s": 3.0,
+        "id_a": "EC1.1_0185",
+        "id_b": "HP100_0219",
+        "dist_h_m": 488.190001465669,
+        "dist_v_m": 65.04031999999995,
+        "horizontal_ratio": 0.976380002931338,
+        "vertical_ratio": 0.47419305920093285,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.47419305920093285,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7496383,
+          -23.535137364999997,
+          1003.7998399999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75503.0,
+        "start_simt": 75503.0,
+        "end_simt": 75613.0,
+        "duration_s": 111.0,
+        "id_a": "EC1.1_0121",
+        "id_b": "HP100_0219",
+        "dist_h_m": 440.20030199242115,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8804006039848423,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.751091795,
+          -23.526699970000003,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75523.0,
+        "start_simt": 75523.0,
+        "end_simt": 75528.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0214",
+        "id_b": "HP100_0219",
+        "dist_h_m": 444.35710526749943,
+        "dist_v_m": 7.9356209999998555,
+        "horizontal_ratio": 0.8887142105349989,
+        "vertical_ratio": 0.05785667104111881,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.05785667104111881,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.737304965,
+          -23.51695133,
+          1032.3521895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75524.0,
+        "start_simt": 75524.0,
+        "end_simt": 75530.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0121",
+        "id_b": "HP100_0214",
+        "dist_h_m": 469.22060845522486,
+        "dist_v_m": 0.003809999999930369,
+        "horizontal_ratio": 0.9384412169104497,
+        "vertical_ratio": 2.7777777777270115e-05,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 2.7777777777270115e-05,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73846861,
+          -23.516675704999997,
+          1036.318095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75537.0,
+        "start_simt": 75537.0,
+        "end_simt": 75541.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0060",
+        "id_b": "EC1.1_0180",
+        "dist_h_m": 430.87502284218203,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.8617500456843641,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.546645354999995,
+          -23.507686985,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75588.0,
+        "start_simt": 75588.0,
+        "end_simt": 75594.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0022",
+        "id_b": "HP100_0214",
+        "dist_h_m": 474.63730232087306,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9492746046417462,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.768077520000006,
+          -23.5227778,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75591.0,
+        "start_simt": 75591.0,
+        "end_simt": 75596.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0013",
+        "id_b": "HP100_0214",
+        "dist_h_m": 422.27965128000073,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8445593025600014,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.76913693,
+          -23.52262845,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75593.0,
+        "start_simt": 75588.0,
+        "end_simt": 75593.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0032",
+        "id_b": "HP100_0221",
+        "dist_h_m": 454.95862037935046,
+        "dist_v_m": 3.1771340000000237,
+        "horizontal_ratio": 0.909917240758701,
+        "vertical_ratio": 0.023163706620006004,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.023163706620006004,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.667824155000005,
+          -23.57141726,
+          976.205429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75647.0,
+        "start_simt": 75647.0,
+        "end_simt": 75650.0,
+        "duration_s": 4.0,
+        "id_a": "EC1.1_0032",
+        "id_b": "EC1.1_0121",
+        "dist_h_m": 440.22071609733786,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8804414321946757,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.67382647,
+          -23.543681075000002,
+          1005.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75667.0,
+        "start_simt": 75667.0,
+        "end_simt": 75673.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0053",
+        "id_b": "EC1.1_0121",
+        "dist_h_m": 478.4251580783467,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9568503161566935,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68058852,
+          -23.55690542,
+          1005.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75671.0,
+        "start_simt": 75671.0,
+        "end_simt": 75676.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0180",
+        "id_b": "HP100_0221",
+        "dist_h_m": 397.6316696474084,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.7952633392948167,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.616929215,
+          -23.56177922,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75682.0,
+        "start_simt": 75682.0,
+        "end_simt": 75688.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0170",
+        "id_b": "EC1.1_0180",
+        "dist_h_m": 455.5317661789652,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9110635323579304,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.622217215,
+          -23.567726475,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75792.0,
+        "start_simt": 75784.0,
+        "end_simt": 75871.0,
+        "duration_s": 88.0,
+        "id_a": "EC1.1_0032",
+        "id_b": "EC1.1_0152",
+        "dist_h_m": 285.9804230338721,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.5719608460677442,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.754388614999996,
+          -23.523950105,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75852.0,
+        "start_simt": 75849.0,
+        "end_simt": 75854.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0221",
+        "id_b": "HP100_0222",
+        "dist_h_m": 85.60382359873599,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.17120764719747197,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.17120764719747197,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.50745506,
+          -23.493424655,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75867.0,
+        "start_simt": 75865.0,
+        "end_simt": 75870.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0170",
+        "id_b": "HP100_0222",
+        "dist_h_m": 77.60499575286298,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.15520999150572595,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.15520999150572595,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.518784839999995,
+          -23.496257485,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75916.0,
+        "start_simt": 75916.0,
+        "end_simt": 75922.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0010",
+        "id_b": "EC1.1_0032",
+        "dist_h_m": 470.8562461959735,
+        "dist_v_m": 3.567760000000021,
+        "horizontal_ratio": 0.941712492391947,
+        "vertical_ratio": 0.026011665208515757,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.026011665208515757,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.838143779999996,
+          -23.49277342,
+          916.18388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75932.0,
+        "start_simt": 75932.0,
+        "end_simt": 75935.0,
+        "duration_s": 4.0,
+        "id_a": "EC1.1_0122",
+        "id_b": "EC1.1_0152",
+        "dist_h_m": 463.22499583302715,
+        "dist_v_m": 60.54551100000003,
+        "horizontal_ratio": 0.9264499916660544,
+        "vertical_ratio": 0.44142250656168003,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.44142250656168003,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.818216175,
+          -23.55276913,
+          944.6727555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75954.0,
+        "start_simt": 75954.0,
+        "end_simt": 75958.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0053",
+        "id_b": "EC1.1_0122",
+        "dist_h_m": 456.7943803865957,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9135887607731914,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.817694195,
+          -23.540024799999998,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 75977.0,
+        "start_simt": 75974.0,
+        "end_simt": 75980.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0010",
+        "id_b": "EC1.1_0067",
+        "dist_h_m": 76.40732374178425,
+        "dist_v_m": 35.953670999999986,
+        "horizontal_ratio": 0.15281464748356852,
+        "vertical_ratio": 0.2621294181977252,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.15281464748356852,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.80641613,
+          -23.51090794,
+          1018.3431645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 76075.0,
+        "start_simt": 76074.0,
+        "end_simt": 76075.0,
+        "duration_s": 2.0,
+        "id_a": "EC1.1_0010",
+        "id_b": "EC1.1_0149",
+        "dist_h_m": 485.0206440718698,
+        "dist_v_m": 110.32780000000002,
+        "horizontal_ratio": 0.9700412881437396,
+        "vertical_ratio": 0.8043729950422865,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.8043729950422865,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74387561,
+          -23.5384429,
+          950.6761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 76082.0,
+        "start_simt": 76082.0,
+        "end_simt": 76087.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0222",
+        "id_b": "HP100_0223",
+        "dist_h_m": 469.7002403449589,
+        "dist_v_m": 13.404762000000005,
+        "horizontal_ratio": 0.9394004806899178,
+        "vertical_ratio": 0.09773083989501316,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.09773083989501316,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.664963244999996,
+          -23.525524185000002,
+          951.5823809999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 76104.0,
+        "start_simt": 76096.0,
+        "end_simt": 76126.0,
+        "duration_s": 31.0,
+        "id_a": "EC1.1_0122",
+        "id_b": "EC1.1_0149",
+        "dist_h_m": 46.56157571857932,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.09312315143715864,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.747956955,
+          -23.523272325,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 76144.0,
+        "start_simt": 76144.0,
+        "end_simt": 76149.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0122",
+        "id_b": "HP100_0222",
+        "dist_h_m": 497.69877000918547,
+        "dist_v_m": 39.15676799999994,
+        "horizontal_ratio": 0.9953975400183709,
+        "vertical_ratio": 0.2854824146981623,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.2854824146981623,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.718462825,
+          -23.51549262,
+          994.938384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 76681.0,
+        "start_simt": 76664.0,
+        "end_simt": 76681.0,
+        "duration_s": 18.0,
+        "id_a": "HP100_0226",
+        "id_b": "HP100_0227",
+        "dist_h_m": 497.6738324744296,
+        "dist_v_m": 25.515003000000092,
+        "horizontal_ratio": 0.9953476649488592,
+        "vertical_ratio": 0.18602364391951073,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.18602364391951073,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.716547215000006,
+          -23.60879503,
+          1008.3224984999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 76823.0,
+        "start_simt": 76821.0,
+        "end_simt": 76829.0,
+        "duration_s": 9.0,
+        "id_a": "EC1.1_0088",
+        "id_b": "EC1.1_0126",
+        "dist_h_m": 262.57290394385893,
+        "dist_v_m": 1.443394000000012,
+        "horizontal_ratio": 0.5251458078877179,
+        "vertical_ratio": 0.010523432487605804,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.010523432487605804,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.82357656,
+          -23.566586620000002,
+          837.4990130000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77023.0,
+        "start_simt": 77023.0,
+        "end_simt": 77028.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0188",
+        "id_b": "HP100_0228",
+        "dist_h_m": 374.8845967767977,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.7497691935535954,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.532938599999994,
+          -23.500173285,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77047.0,
+        "start_simt": 77047.0,
+        "end_simt": 77052.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0029",
+        "id_b": "EC1.1_0188",
+        "dist_h_m": 470.4289039601976,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.9408578079203952,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54680594,
+          -23.50787864,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77180.0,
+        "start_simt": 77180.0,
+        "end_simt": 77187.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0081",
+        "id_b": "HP100_0230",
+        "dist_h_m": 165.98944773490717,
+        "dist_v_m": 10.922743999999966,
+        "horizontal_ratio": 0.33197889546981435,
+        "vertical_ratio": 0.07963505395158914,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.07963505395158914,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.685433294999996,
+          -23.590373130000003,
+          823.544572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77234.0,
+        "start_simt": 77234.0,
+        "end_simt": 77239.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0081",
+        "id_b": "HP100_0231",
+        "dist_h_m": 451.2706994076704,
+        "dist_v_m": 80.96355200000005,
+        "horizontal_ratio": 0.9025413988153408,
+        "vertical_ratio": 0.5902854476523771,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.5902854476523771,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.666448224999996,
+          -23.57128246,
+          923.487376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77240.0,
+        "start_simt": 77240.0,
+        "end_simt": 77246.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0058",
+        "id_b": "EC1.1_0081",
+        "dist_h_m": 403.22213250762684,
+        "dist_v_m": 51.31466,
+        "horizontal_ratio": 0.8064442650152537,
+        "vertical_ratio": 0.3741226305045203,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.3741226305045203,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.663566835,
+          -23.568869749999998,
+          908.66293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77287.0,
+        "start_simt": 77280.0,
+        "end_simt": 77289.0,
+        "duration_s": 10.0,
+        "id_a": "HP100_0231",
+        "id_b": "HP100_0232",
+        "dist_h_m": 385.0571430451795,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.7701142860903589,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.677726,
+          -23.549260065,
+          990.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77324.0,
+        "start_simt": 77319.0,
+        "end_simt": 77333.0,
+        "duration_s": 15.0,
+        "id_a": "EC1.1_0058",
+        "id_b": "HP100_0232",
+        "dist_h_m": 440.27738129570196,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8805547625914039,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.673268539999995,
+          -23.531674955,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77383.0,
+        "start_simt": 77383.0,
+        "end_simt": 77485.0,
+        "duration_s": 103.0,
+        "id_a": "EC1.1_0058",
+        "id_b": "HP100_0232",
+        "dist_h_m": 498.9939229764296,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9979878459528592,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70414004,
+          -23.515445874999997,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77587.0,
+        "start_simt": 77582.0,
+        "end_simt": 77587.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0054",
+        "id_b": "EC1.1_0118",
+        "dist_h_m": 139.8822880527194,
+        "dist_v_m": 4.255274999999983,
+        "horizontal_ratio": 0.27976457610543876,
+        "vertical_ratio": 0.03102416885389314,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.03102416885389314,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.82859435,
+          -23.565237375000002,
+          795.2934375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77885.0,
+        "start_simt": 77885.0,
+        "end_simt": 77889.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0033",
+        "id_b": "HP100_0238",
+        "dist_h_m": 413.26809609974697,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8265361921994939,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69175972,
+          -23.521385379999998,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77899.0,
+        "start_simt": 77899.0,
+        "end_simt": 77903.0,
+        "duration_s": 5.0,
+        "id_a": "HP100_0236",
+        "id_b": "HP100_0238",
+        "dist_h_m": 414.8680961603869,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8297361923207739,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68076842,
+          -23.52287862,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77940.0,
+        "start_simt": 77940.0,
+        "end_simt": 77945.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0171",
+        "id_b": "EC1.1_0181",
+        "dist_h_m": 436.626836544172,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.873253673088344,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.570350925,
+          -23.533967985,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77941.0,
+        "start_simt": 77941.0,
+        "end_simt": 77946.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0033",
+        "id_b": "EC1.1_0141",
+        "dist_h_m": 408.62912260713716,
+        "dist_v_m": 32.21793099999991,
+        "horizontal_ratio": 0.8172582452142744,
+        "vertical_ratio": 0.23489305191017723,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.23489305191017723,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73198766,
+          -23.515437445,
+          1020.2110345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77952.0,
+        "start_simt": 77952.0,
+        "end_simt": 77955.0,
+        "duration_s": 4.0,
+        "id_a": "EC1.1_0141",
+        "id_b": "HP100_0236",
+        "dist_h_m": 399.26960074669665,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.7985392014933933,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.723943145,
+          -23.51470538,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 77992.0,
+        "start_simt": 77992.0,
+        "end_simt": 77998.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0003",
+        "id_b": "EC1.1_0033",
+        "dist_h_m": 476.19348118201486,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9523869623640298,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.767003695,
+          -23.52376772,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78003.0,
+        "start_simt": 78003.0,
+        "end_simt": 78008.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0023",
+        "id_b": "EC1.1_0033",
+        "dist_h_m": 495.4012100089271,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9908024200178541,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.774981135000004,
+          -23.5221965,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78015.0,
+        "start_simt": 78015.0,
+        "end_simt": 78017.0,
+        "duration_s": 3.0,
+        "id_a": "EC1.1_0103",
+        "id_b": "HP100_0236",
+        "dist_h_m": 487.87188844449275,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9757437768889855,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.761877205000005,
+          -23.494667829999997,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78089.0,
+        "start_simt": 78089.0,
+        "end_simt": 78095.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0051",
+        "id_b": "EC1.1_0141",
+        "dist_h_m": 442.03130042537293,
+        "dist_v_m": 30.119845000000055,
+        "horizontal_ratio": 0.8840626008507458,
+        "vertical_ratio": 0.21959642023913717,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.21959642023913717,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.678389445,
+          -23.5661606,
+          990.7800775000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78171.0,
+        "start_simt": 78171.0,
+        "end_simt": 78177.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0003",
+        "id_b": "HP100_0240",
+        "dist_h_m": 431.6854680192122,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8633709360384244,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.678729759999996,
+          -23.55175719,
+          1005.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78191.0,
+        "start_simt": 78191.0,
+        "end_simt": 78195.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0051",
+        "id_b": "HP100_0239",
+        "dist_h_m": 393.85912681070903,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.787718253621418,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.700488765,
+          -23.519379705,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78217.0,
+        "start_simt": 78217.0,
+        "end_simt": 78221.0,
+        "duration_s": 5.0,
+        "id_a": "HP100_0239",
+        "id_b": "HP100_0240",
+        "dist_h_m": 436.27813801587246,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8725562760317449,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.678424315,
+          -23.52372275,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78270.0,
+        "start_simt": 78270.0,
+        "end_simt": 78275.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0026",
+        "id_b": "EC1.1_0103",
+        "dist_h_m": 436.6459942924885,
+        "dist_v_m": 10.539359999999988,
+        "horizontal_ratio": 0.873291988584977,
+        "vertical_ratio": 0.07683989501312327,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.07683989501312327,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.836095295,
+          -23.493483005,
+          919.66968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78666.0,
+        "start_simt": 78666.0,
+        "end_simt": 78670.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0098",
+        "id_b": "EC1.1_0176",
+        "dist_h_m": 437.6542310159518,
+        "dist_v_m": 17.30125799999996,
+        "horizontal_ratio": 0.8753084620319036,
+        "vertical_ratio": 0.12613923884514408,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.12613923884514408,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57843132,
+          -23.53927729,
+          966.709371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78752.0,
+        "start_simt": 78752.0,
+        "end_simt": 78757.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0176",
+        "id_b": "HP100_0241",
+        "dist_h_m": 349.77415726980547,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.699548314539611,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63978387,
+          -23.53224495,
+          944.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78754.0,
+        "start_simt": 78754.0,
+        "end_simt": 78759.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0098",
+        "id_b": "HP100_0243",
+        "dist_h_m": 374.57406488575685,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.7491481297715137,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.531875065,
+          -23.499763655000002,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78765.0,
+        "start_simt": 78765.0,
+        "end_simt": 78771.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0176",
+        "id_b": "HP100_0244",
+        "dist_h_m": 404.7820379012743,
+        "dist_v_m": 24.519344000000046,
+        "horizontal_ratio": 0.8095640758025486,
+        "vertical_ratio": 0.17876453776611292,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.17876453776611292,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64699648,
+          -23.527790539999998,
+          932.620328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78771.0,
+        "start_simt": 78768.0,
+        "end_simt": 78774.0,
+        "duration_s": 7.0,
+        "id_a": "HP100_0244",
+        "id_b": "HP100_0245",
+        "dist_h_m": 94.1685549598178,
+        "dist_v_m": 0.4107600000000957,
+        "horizontal_ratio": 0.1883371099196356,
+        "vertical_ratio": 0.0029947506561686767,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0029947506561686767,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64481531,
+          -23.52668927,
+          886.116556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78772.0,
+        "start_simt": 78765.0,
+        "end_simt": 78772.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0176",
+        "id_b": "HP100_0245",
+        "dist_h_m": 498.4308011063837,
+        "dist_v_m": 53.36718399999995,
+        "horizontal_ratio": 0.9968616022127673,
+        "vertical_ratio": 0.3890870807815686,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.3890870807815686,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.647652205,
+          -23.52605191,
+          918.196408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78817.0,
+        "start_simt": 78817.0,
+        "end_simt": 78915.0,
+        "duration_s": 99.0,
+        "id_a": "EC1.1_0176",
+        "id_b": "HP100_0245",
+        "dist_h_m": 491.2990038366894,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9825980076733788,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.680310745,
+          -23.521857115,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78840.0,
+        "start_simt": 78840.0,
+        "end_simt": 78845.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0241",
+        "id_b": "HP100_0243",
+        "dist_h_m": 414.41377517124096,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.8288275503424819,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57764166,
+          -23.538630075,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78862.0,
+        "start_simt": 78862.0,
+        "end_simt": 78867.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0176",
+        "id_b": "HP100_0242",
+        "dist_h_m": 489.37191081988834,
+        "dist_v_m": 31.45527000000004,
+        "horizontal_ratio": 0.9787438216397767,
+        "vertical_ratio": 0.22933267716535463,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.22933267716535463,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.717217579999996,
+          -23.515623079999997,
+          991.0876350000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78862.0,
+        "start_simt": 78862.0,
+        "end_simt": 78867.0,
+        "duration_s": 6.0,
+        "id_a": "HP100_0242",
+        "id_b": "HP100_0245",
+        "dist_h_m": 453.3433284097792,
+        "dist_v_m": 34.84248000000002,
+        "horizontal_ratio": 0.9066866568195584,
+        "vertical_ratio": 0.2540279965004376,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.2540279965004376,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.717424495,
+          -23.515601265,
+          992.78124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 78952.0,
+        "start_simt": 78952.0,
+        "end_simt": 78958.0,
+        "duration_s": 7.0,
+        "id_a": "HP100_0242",
+        "id_b": "HP100_0243",
+        "dist_h_m": 469.02470765813905,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9380494153162781,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.656553904999996,
+          -23.526453525,
+          944.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 79314.0,
+        "start_simt": 79311.0,
+        "end_simt": 79320.0,
+        "duration_s": 10.0,
+        "id_a": "HP100_0247",
+        "id_b": "HP100_0250",
+        "dist_h_m": 195.30286615054084,
+        "dist_v_m": 0.24264199999993252,
+        "horizontal_ratio": 0.3906057323010817,
+        "vertical_ratio": 0.0017690434529012288,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0017690434529012288,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.646044,
+          -23.526768660000002,
+          886.733201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 79365.0,
+        "start_simt": 79365.0,
+        "end_simt": 79370.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0130",
+        "id_b": "HP100_0248",
+        "dist_h_m": 484.3125897919267,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9686251795838534,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.775030965,
+          -23.521869495,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 79748.0,
+        "start_simt": 79748.0,
+        "end_simt": 79756.0,
+        "duration_s": 9.0,
+        "id_a": "EC1.1_0004",
+        "id_b": "EC1.1_0119",
+        "dist_h_m": 429.103902917968,
+        "dist_v_m": 3.2049140000000307,
+        "horizontal_ratio": 0.858207805835936,
+        "vertical_ratio": 0.023366243802858202,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.023366243802858202,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.850966015,
+          -23.488673395,
+          868.958423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 79840.0,
+        "start_simt": 79840.0,
+        "end_simt": 79845.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0004",
+        "id_b": "HP100_0249",
+        "dist_h_m": 390.4094403818487,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.7808188807636974,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.806565475,
+          -23.510577634999997,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 79913.0,
+        "start_simt": 79913.0,
+        "end_simt": 79918.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0004",
+        "id_b": "EC1.1_0068",
+        "dist_h_m": 425.2584492351558,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8505168984703116,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.75579997,
+          -23.52508551,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 79995.0,
+        "start_simt": 79995.0,
+        "end_simt": 80000.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0004",
+        "id_b": "HP100_0251",
+        "dist_h_m": 469.48164574034115,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9389632914806822,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69893108,
+          -23.519810755,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 80009.0,
+        "start_simt": 80009.0,
+        "end_simt": 80013.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0004",
+        "id_b": "HP100_0252",
+        "dist_h_m": 426.06054545048846,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8521210909009769,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68932583,
+          -23.52185075,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 80421.0,
+        "start_simt": 80421.0,
+        "end_simt": 80426.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0015",
+        "id_b": "HP100_0253",
+        "dist_h_m": 443.08598145992994,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8861719629198599,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.770230305,
+          -23.522784039999998,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 80811.0,
+        "start_simt": 80810.0,
+        "end_simt": 80816.0,
+        "duration_s": 7.0,
+        "id_a": "HP100_0256",
+        "id_b": "HP100_0257",
+        "dist_h_m": 295.2645678763232,
+        "dist_v_m": 4.22502099999997,
+        "horizontal_ratio": 0.5905291357526464,
+        "vertical_ratio": 0.03080359434237365,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.03080359434237365,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64129603000001,
+          -23.522692235,
+          840.5587965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 81014.0,
+        "start_simt": 81014.0,
+        "end_simt": 81019.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0172",
+        "id_b": "HP100_0258",
+        "dist_h_m": 487.96115684599806,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9759223136919961,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55830022,
+          -23.522750195,
+          944.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 81123.0,
+        "start_simt": 81123.0,
+        "end_simt": 81125.0,
+        "duration_s": 3.0,
+        "id_a": "EC1.1_0172",
+        "id_b": "EC1.1_0189",
+        "dist_h_m": 493.1901143057838,
+        "dist_v_m": 30.480000000000018,
+        "horizontal_ratio": 0.9863802286115676,
+        "vertical_ratio": 0.22222222222222235,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.22222222222222235,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.490872125,
+          -23.490076365,
+          960.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 81175.0,
+        "start_simt": 81172.0,
+        "end_simt": 81177.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0172",
+        "id_b": "HP100_0261",
+        "dist_h_m": 140.86161834780097,
+        "dist_v_m": 48.73579499999994,
+        "horizontal_ratio": 0.28172323669560195,
+        "vertical_ratio": 0.35532075678040204,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.28172323669560195,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.470262309999995,
+          -23.466814465,
+          890.0321025000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 81195.0,
+        "start_simt": 81195.0,
+        "end_simt": 81199.0,
+        "duration_s": 5.0,
+        "id_a": "EC1.1_0123",
+        "id_b": "HP100_0258",
+        "dist_h_m": 377.0248047379287,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.7540496094758574,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.689021374999996,
+          -23.521882935,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 81839.0,
+        "start_simt": 81839.0,
+        "end_simt": 81844.0,
+        "duration_s": 6.0,
+        "id_a": "EC1.1_0011",
+        "id_b": "HP100_0262",
+        "dist_h_m": 443.231804279869,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.8864636085597379,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.770230545,
+          -23.522785235,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 82196.0,
+        "start_simt": 82195.0,
+        "end_simt": 82201.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0138",
+        "id_b": "HP100_0264",
+        "dist_h_m": 284.7072518034488,
+        "dist_v_m": 0.3525169999999207,
+        "horizontal_ratio": 0.5694145036068976,
+        "vertical_ratio": 0.0025701151939335133,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0025701151939335133,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.749409799999995,
+          -23.52670937,
+          1006.0162585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 82289.0,
+        "start_simt": 82289.0,
+        "end_simt": 82323.0,
+        "duration_s": 35.0,
+        "id_a": "EC1.1_0055",
+        "id_b": "HP100_0266",
+        "dist_h_m": 498.9512729947259,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9979025459894518,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.702662540000006,
+          -23.51750957,
+          975.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 82689.0,
+        "start_simt": 82683.0,
+        "end_simt": 82697.0,
+        "duration_s": 15.0,
+        "id_a": "HP100_0269",
+        "id_b": "HP100_0270",
+        "dist_h_m": 172.9231825915761,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.3458463651831522,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.749160024999995,
+          -23.529537485,
+          1036.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 82781.0,
+        "start_simt": 82777.0,
+        "end_simt": 82784.0,
+        "duration_s": 8.0,
+        "id_a": "EC1.1_0048",
+        "id_b": "EC1.1_0099",
+        "dist_h_m": 180.02075352731507,
+        "dist_v_m": 88.844966,
+        "horizontal_ratio": 0.3600415070546301,
+        "vertical_ratio": 0.6477469087197434,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "eVTOL",
+        "vehicle_pair": "eVTOL - eVTOL",
+        "severity_ratio": 0.3600415070546301,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66686602,
+          -23.572337490000002,
+          927.428083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 83130.0,
+        "start_simt": 83124.0,
+        "end_simt": 83130.0,
+        "duration_s": 7.0,
+        "id_a": "EC1.1_0099",
+        "id_b": "HP100_0272",
+        "dist_h_m": 499.6278210606895,
+        "dist_v_m": 31.676346999999964,
+        "horizontal_ratio": 0.999255642121379,
+        "vertical_ratio": 0.23094449547973145,
+        "vehicle_type_a": "eVTOL",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "eVTOL - helicoptero",
+        "severity_ratio": 0.23094449547973145,
+        "is_nmac": false,
+        "is_mac": false,
+        "event_class": "lowc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.47022627,
+          -23.46764421,
+          898.0436665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "simt": 85408.0,
+        "start_simt": 85402.0,
+        "end_simt": 85533.0,
+        "duration_s": 132.0,
+        "id_a": "HP100_0276",
+        "id_b": "HP100_0277",
+        "dist_h_m": 460.9962946655143,
+        "dist_v_m": 0.0,
+        "horizontal_ratio": 0.9219925893310287,
+        "vertical_ratio": 0.0,
+        "vehicle_type_a": "helicoptero",
+        "vehicle_type_b": "helicoptero",
+        "vehicle_pair": "helicoptero - helicoptero",
+        "severity_ratio": 0.0,
+        "is_nmac": true,
+        "is_mac": false,
+        "event_class": "nmac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.575063075,
+          -23.540093104999997,
+          944.88
+        ]
+      }
+    }
+  ]
+}
